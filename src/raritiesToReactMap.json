@@ -1,0 +1,424 @@
+[
+    {
+        "attribute": "Background",
+        "items": [
+            {
+                "name": "Cyan",
+                "stock": 401,
+                "total": 10000,
+                "percentage": 4.01,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/0-background/1-cyan.png"
+            },
+            {
+                "name": "Yellow",
+                "stock": 832,
+                "total": 10000,
+                "percentage": 8.32,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/0-background/3-yellow.png"
+            },
+            {
+                "name": "Green",
+                "stock": 1464,
+                "total": 10000,
+                "percentage": 14.64,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/0-background/7-green.png"
+            },
+            {
+                "name": "Purple",
+                "stock": 1879,
+                "total": 10000,
+                "percentage": 18.79,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/0-background/11-purple.png"
+            },
+            {
+                "name": "Orange",
+                "stock": 5424,
+                "total": 10000,
+                "percentage": 54.24,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/0-background/78-orange.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Border color",
+        "items": [
+            {
+                "name": "Orange border",
+                "stock": 357,
+                "total": 10000,
+                "percentage": 3.57,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/1-Border_color/1-orange_border.png"
+            },
+            {
+                "name": "Green border",
+                "stock": 858,
+                "total": 10000,
+                "percentage": 8.58,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/1-Border_color/3-green_border.png"
+            },
+            {
+                "name": "Purple border",
+                "stock": 1464,
+                "total": 10000,
+                "percentage": 14.64,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/1-Border_color/7-purple_border.png"
+            },
+            {
+                "name": "Yellow border",
+                "stock": 1853,
+                "total": 10000,
+                "percentage": 18.53,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/1-Border_color/11-yellow_border.png"
+            },
+            {
+                "name": "Cyan border",
+                "stock": 5468,
+                "total": 10000,
+                "percentage": 54.68,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/1-Border_color/78-cyan_border.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Border dots",
+        "items": [
+            {
+                "name": "Pink dots",
+                "stock": 283,
+                "total": 10000,
+                "percentage": 2.83,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/2-border_dots/1-pink_dots.png"
+            },
+            {
+                "name": "Dark purple dots",
+                "stock": 432,
+                "total": 10000,
+                "percentage": 4.32,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/2-border_dots/2-dark_purple_dots.png"
+            },
+            {
+                "name": "Dark green dots",
+                "stock": 603,
+                "total": 10000,
+                "percentage": 6.03,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/2-border_dots/3-dark_green_dots.png"
+            },
+            {
+                "name": "Dark blue dots",
+                "stock": 953,
+                "total": 10000,
+                "percentage": 9.53,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/2-border_dots/7-dark_blue_dots.png"
+            },
+            {
+                "name": "Black dots",
+                "stock": 1047,
+                "total": 10000,
+                "percentage": 10.47,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/2-border_dots/8-black_dots.png"
+            },
+            {
+                "name": "Magenta dots",
+                "stock": 1200,
+                "total": 10000,
+                "percentage": 12.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/2-border_dots/10-magenta_dots.png"
+            },
+            {
+                "name": "Brown dots",
+                "stock": 1449,
+                "total": 10000,
+                "percentage": 14.49,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/2-border_dots/14-brown_dots.png"
+            },
+            {
+                "name": "Emerald dots",
+                "stock": 1783,
+                "total": 10000,
+                "percentage": 17.83,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/2-border_dots/20-emerald_dots.png"
+            },
+            {
+                "name": "Nothing",
+                "stock": 2250,
+                "total": 10000,
+                "percentage": 22.5,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/2-border_dots/35-nothing.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Example text",
+        "items": [
+            {
+                "name": "Example 1",
+                "stock": 426,
+                "total": 10000,
+                "percentage": 4.26,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/3-example_text/1-example_1.png"
+            },
+            {
+                "name": "Example 2",
+                "stock": 684,
+                "total": 10000,
+                "percentage": 6.84,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/3-example_text/2-example_2.png"
+            },
+            {
+                "name": "Example 3",
+                "stock": 894,
+                "total": 10000,
+                "percentage": 8.94,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/3-example_text/3-example_3.png"
+            },
+            {
+                "name": "Example 4",
+                "stock": 1076,
+                "total": 10000,
+                "percentage": 10.76,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/3-example_text/4-example_4.png"
+            },
+            {
+                "name": "Example 5",
+                "stock": 1225,
+                "total": 10000,
+                "percentage": 12.25,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/3-example_text/5-example_5.png"
+            },
+            {
+                "name": "Example 6",
+                "stock": 5695,
+                "total": 10000,
+                "percentage": 56.95,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/3-example_text/85-example_6.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Simple draw",
+        "items": [
+            {
+                "name": "Crown",
+                "stock": 340,
+                "total": 10000,
+                "percentage": 3.4,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/4-simple_draw/1-crown.png"
+            },
+            {
+                "name": "Swan",
+                "stock": 531,
+                "total": 10000,
+                "percentage": 5.31,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/4-simple_draw/2-swan.png"
+            },
+            {
+                "name": "Paw",
+                "stock": 995,
+                "total": 10000,
+                "percentage": 9.95,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/4-simple_draw/5-paw.png"
+            },
+            {
+                "name": "Balloon",
+                "stock": 1189,
+                "total": 10000,
+                "percentage": 11.89,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/4-simple_draw/7-balloon.png"
+            },
+            {
+                "name": "Flower",
+                "stock": 1436,
+                "total": 10000,
+                "percentage": 14.36,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/4-simple_draw/10-flower.png"
+            },
+            {
+                "name": "Fish",
+                "stock": 1756,
+                "total": 10000,
+                "percentage": 17.56,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/4-simple_draw/14-fish.png"
+            },
+            {
+                "name": "Nothing",
+                "stock": 3753,
+                "total": 10000,
+                "percentage": 37.53,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/4-simple_draw/61-Nothing.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Watermark",
+        "items": [
+            {
+                "name": "Top middle",
+                "stock": 329,
+                "total": 10000,
+                "percentage": 3.29,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-watermark/1-top_middle.png"
+            },
+            {
+                "name": "Middle left",
+                "stock": 695,
+                "total": 10000,
+                "percentage": 6.95,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/5-watermark/3-middle_left.png"
+            },
+            {
+                "name": "Down left",
+                "stock": 1124,
+                "total": 10000,
+                "percentage": 11.24,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/5-watermark/6-down_left.png"
+            },
+            {
+                "name": "Middle right",
+                "stock": 1675,
+                "total": 10000,
+                "percentage": 16.75,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/5-watermark/12-middle_right.png"
+            },
+            {
+                "name": "Top right",
+                "stock": 2726,
+                "total": 10000,
+                "percentage": 27.26,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/5-watermark/30-top_right.png"
+            },
+            {
+                "name": "Down middle",
+                "stock": 3451,
+                "total": 10000,
+                "percentage": 34.51,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/5-watermark/48-down_middle.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Border mark",
+        "items": [
+            {
+                "name": "1 left side",
+                "stock": 365,
+                "total": 10000,
+                "percentage": 3.65,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/6-border_mark/1-1_left_side.png"
+            },
+            {
+                "name": "2 right side",
+                "stock": 815,
+                "total": 10000,
+                "percentage": 8.15,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/6-border_mark/3-2_right_side.png"
+            },
+            {
+                "name": "1 both sides",
+                "stock": 1528,
+                "total": 10000,
+                "percentage": 15.28,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/6-border_mark/8-1_both_sides.png"
+            },
+            {
+                "name": "2 both sides",
+                "stock": 2103,
+                "total": 10000,
+                "percentage": 21.03,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/6-border_mark/14-2_both_sides.png"
+            },
+            {
+                "name": "Nothing",
+                "stock": 5189,
+                "total": 10000,
+                "percentage": 51.89,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/6-border_mark/74-nothing.png"
+            }
+        ]
+    }
+]
